@@ -1,7 +1,5 @@
 plugins {
-    java
-    jacoco
-    application
+    id("")
 }
 
 java.toolchain {
